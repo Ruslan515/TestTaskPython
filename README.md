@@ -1,2 +1,1 @@
-"# TestTaskPython" 
-"# TestTaskPython" 
+Задачи Python
